@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phiegahnae.gsa-hsa.com/sitemap.xml
